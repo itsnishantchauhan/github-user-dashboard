@@ -1,0 +1,147 @@
+Project OverView:
+
+PHASE 1
+HTML + CSS dashboard layout
+        ↓
+PHASE 2
+Username input + button
+        ↓
+PHASE 3
+fetch() se GitHub user data
+        ↓
+PHASE 4
+JSON response samajhna
+        ↓
+PHASE 5
+Profile UI dynamically create karna
+        ↓
+PHASE 6
+Repositories fetch karna
+        ↓
+PHASE 7
+Repo cards generate karna
+        ↓
+PHASE 8
+Search / filter / sorting
+        ↓
+PHASE 9
+Loading + errors
+        ↓
+PHASE 10
+Responsive + polish
+        ↓
+        DONE 🚀
+
+
+
+
+
+
+
+
+
+
+
+{login: 'koala73', id: 996596, node_id: 'MDQ6VXNlcjk5NjU5Ng==', avatar_url: 'https://avatars.githubusercontent.com/u/996596?v=4', gravatar_id: '', …}
+avatar_url
+: 
+"https://avatars.githubusercontent.com/u/996596?v=4"
+bio
+: 
+null
+blog
+: 
+""
+company
+: 
+null
+created_at
+: 
+"2011-08-22T15:15:58Z"
+email
+: 
+null
+events_url
+: 
+"https://api.github.com/users/koala73/events{/privacy}"
+followers
+: 
+4380
+followers_url
+: 
+"https://api.github.com/users/koala73/followers"
+following
+: 
+15
+following_url
+: 
+"https://api.github.com/users/koala73/following{/other_user}"
+gists_url
+: 
+"https://api.github.com/users/koala73/gists{/gist_id}"
+gravatar_id
+: 
+""
+hireable
+: 
+null
+html_url
+: 
+"https://github.com/koala73"
+id
+: 
+996596
+location
+: 
+null
+login
+: 
+"koala73"
+name
+: 
+"Elie Habib"
+node_id
+: 
+"MDQ6VXNlcjk5NjU5Ng=="
+organizations_url
+: 
+"https://api.github.com/users/koala73/orgs"
+public_gists
+: 
+4
+public_repos
+: 
+22
+received_events_url
+: 
+"https://api.github.com/users/koala73/received_events"
+repos_url
+: 
+"https://api.github.com/users/koala73/repos"
+site_admin
+: 
+false
+starred_url
+: 
+"https://api.github.com/users/koala73/starred{/owner}{/repo}"
+subscriptions_url
+: 
+"https://api.github.com/users/koala73/subscriptions"
+twitter_username
+: 
+"eliehabib"
+type
+: 
+"User"
+updated_at
+: 
+"2026-10-05T04:53:14Z"
+url
+: 
+"https://api.github.com/users/koala73"
+user_view_type
+: 
+"public"
+[[Prototype]]
+: 
+Object
